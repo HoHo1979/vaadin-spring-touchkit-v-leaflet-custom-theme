@@ -1,0 +1,8 @@
+@import "mytheme.scss";
+@import "vaadin-icons.scss";
+
+
+.mytheme {
+  @include mytheme;
+  @include vaadin-icons;
+}
